@@ -27,8 +27,8 @@
 ### 三、常见框架
 
 1. [Sciket-learn](http://scikit-learn.org/stable/)；
-2. [Mahout](*http://mahout.apache.org/*)；
-3. [Spark MLlib](*http://spark.apache.org/*)  。
+2. [Mahout](http://mahout.apache.org/)；
+3. [Spark MLlib](http://spark.apache.org/)  。
 
 ### 四、机器学习分类
 
