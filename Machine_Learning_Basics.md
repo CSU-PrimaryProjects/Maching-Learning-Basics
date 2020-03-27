@@ -244,5 +244,7 @@
 
 
 
-+ [B站发现的李宏毅老师的有关视频，质量超赞！](https://www.bilibili.com/video/av35932863/)
++ [B站发现的李宏毅老师的移植视频，质量超赞！](https://www.bilibili.com/video/av35932863/)
++ [最新版课程资料戳这里嗷~~](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
++ [课件在这里](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)
 
